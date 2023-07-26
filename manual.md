@@ -45,4 +45,11 @@ git commit -m “message” – создание коммита.
 * git checkout <название ветки> – переход к другой ветке
 * git branch -d <название ветки> – удалить ветку
 ## Полезное
+Официальная документация, включающая книгу и видеоуроки – [тут](https://git-scm.com/doc).
+
+“Getting git right” – Коллекция руководств и статей от Atlassian – [тут](https://www.atlassian.com/git).
+
+Список клиентов с графическим интерфейсом – [тут](https://www.git-scm.com/downloads/guis).
+
+Онлайн утилита для генерации .gitignore файлов – [тут](https://www.toptal.com/developers/gitignore).
 ## Примечание
